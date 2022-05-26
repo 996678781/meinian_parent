@@ -8,11 +8,11 @@ package com.atguigu.util;
 public class ABC {
     public static void main(String[] args) {
         System.out.println("11111 master");
-        System.out.println("11111  dev111");
-        System.out.println("11111  dev111");
-        System.out.println("11111  dev111");
-        System.out.println("11111  dev111");
-        System.out.println("11111  dev111");
+        System.out.println("11111  dev111 222");
+        System.out.println("11111  dev111 222");
+        System.out.println("11111  dev111 222");
+        System.out.println("11111  dev111 222");
+        System.out.println("11111  dev111 222");
 
     }
 }
